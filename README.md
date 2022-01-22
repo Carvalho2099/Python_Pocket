@@ -18,3 +18,4 @@ O que vai achar nesse repositório:
 - como rodar codigo em tempo determinado
 - transformar link em qrcode
 - verificar velocidade da internet
+- functions_python
