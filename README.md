@@ -19,3 +19,4 @@ O que vai achar nesse repositório:
 - transformar link em qrcode
 - verificar velocidade da internet
 - functions_python
+- modulos_introducao_orietacao_objeto
