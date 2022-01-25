@@ -20,3 +20,4 @@ O que vai achar nesse repositório:
 - verificar velocidade da internet
 - functions em python
 - modulos e introduçao a orientação a objeto
+- Functions usadas como parâmetro e Expressões Lambda
