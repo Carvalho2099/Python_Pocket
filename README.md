@@ -20,4 +20,5 @@ O que vai achar nesse repositório:
 - verificar velocidade da internet
 - functions em python
 - modulos e introduçao a orientação a objeto
-- Functions usadas como parâmetro e Expressões Lambda
+- functions usadas como parâmetro e Expressões Lambda
+- analise de dados pandas e integração com excel
