@@ -22,3 +22,4 @@ O que vai achar nesse repositório:
 - modulos e introduçao a orientação a objeto
 - functions usadas como parâmetro e Expressões Lambda
 - analise de dados pandas e integração com excel
+- integracao python - arquivos e pastas do computador
