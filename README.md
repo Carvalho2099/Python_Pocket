@@ -23,3 +23,4 @@ O que vai achar nesse repositório:
 - functions usadas como parâmetro e Expressões Lambda
 - analise de dados pandas e integração com excel
 - integracao python - arquivos e pastas do computador
+- integracao python com email
