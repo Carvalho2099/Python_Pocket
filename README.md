@@ -24,3 +24,4 @@ O que vai achar nesse repositório:
 - analise de dados pandas e integração com excel
 - integracao python - arquivos e pastas do computador
 - integracao python com email
+- django - projeto hashflix
